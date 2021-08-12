@@ -11,7 +11,7 @@
 This repository consists of machine learning projects with flask and deployed on Heroku. \
 [Web App link](https://frozen-refuge-01507.herokuapp.com/)
 
-## Bengaluru House Price Prediction 
+## vine quality Prediction 
 The model is trained on the **Linear Regression** algorithm to predict the continuous prices values of data.
 
 Model contains several parameters:
